@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    margin-top: 25px;
+
+}
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 35px;
+    width: 450px;
+    border: 5px solid black;
+    border-radius: 21px;
+}
+button{
+    font-size: 40px;
+    background-color:lightslategray ;
+    width: 100px;
+    height: 70px;
+    margin: 3px;
+    border-radius: 20px;
+}
+
+.calculator{
+    display: inline-block;
+    background-color:lightgreen;
+    padding: 25px;
+    border-radius: 55px;
+    border: 5px solid black;
+
+}
+
+h1{
+    font-size: 40px;
+    color:orange;
+    font-family: 'Dancing Script', cursive;
+}
